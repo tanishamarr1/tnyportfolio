@@ -6,7 +6,7 @@
         }
         ,
         { 
-            "src": "/portfolio", 
+            "src": "/(.*)", 
             "dest": "/" 
         }
     ]
